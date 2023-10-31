@@ -1,0 +1,48 @@
+div{
+   margin:auto;
+   background-color: pink;
+   width:60%;
+   height:80vh;
+}
+div input{
+   width:70%;
+   height:8%;
+   font-size: 1.3rem;
+   padding-left: 10px;
+   border: 2px solid black;
+   border-radius: 6px;
+   margin-left: 50px;
+}
+#btn1{
+   height:6%;
+   width:12%;
+   font-size: 1.3rem;
+   margin-left:15px;
+   border: 1px solid black;
+   border-radius: 6px;
+}
+h1{
+   text-align: center;
+}
+h3{
+   text-align: center;
+}
+div div{
+   height:30%;
+   width:50%;
+   background-color:cornflowerblue;
+   margin-top: 1rem;
+   padding: 0.75rem;
+}
+div p{
+   font-size: 1.3rem;
+   text-align: center;
+   margin-top: 2rem;
+   font-weight: 700;
+}
+.marginleft{
+   margin-left: 50%;
+}
+
+
+
